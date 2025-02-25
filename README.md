@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SMC-Forge
-- 👀 I’m interested in ... Machine Learning, Computer Vision, DSP, life sciences, Language learning and other nerdy crafts.
-- 🌱 I’m currently learning ... an introduction to machine learning, with Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Machine Learning, Data Science, Computer Vision, DSP, life sciences, Language learning and other nerdy crafts.
+- 🌱 I’m currently learning ... ASP.Net and an introduction to machine learning, with Python.
+- 💞️ I’m looking to collaborate on ...  
 - 📫 How to reach me ... you can get me at smccormick26@outlook.com
 
 <!---
